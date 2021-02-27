@@ -18,3 +18,7 @@ defined('MOODLE_INTERNAL') || die();
 $plugin->version   = 2021021201;
 $plugin->requires  = 2020061500 ;
 $plugin->component = 'filter_dbconcept';
+$plugin->maturity = MATURITY_STABLE;
+$plugin->release = 'v1.0';
+$plugin->dependencies = [];
+
