@@ -1,4 +1,4 @@
-#Plugin Filter DBConcept
+# Plugin Filter DBConcept
 Plugin filter to create Merise schema from text ([Mocodo](http://mocodo.wingi.net/) format).
 
 It uses [DBConcept](https://dbconcept.tuxfamily.org/) tool made by FranK ENDRES (frankendres@tuxfamily.org).
@@ -7,7 +7,7 @@ Complete syntax is available at [https://dbconcept.tuxfamily.org/](https://dbcon
 This plugin is distributed under [CeCILL v2.1](http://cecill.info/licences/Licence_CeCILL_V2.1-en.html) licence.
 
 
-##Use :
+## Use :
 Add Mocodo format text between [dbconcept]...[/dbconcept]
 Example :
 ```
