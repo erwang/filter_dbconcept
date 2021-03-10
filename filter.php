@@ -38,7 +38,7 @@ class filter_dbconcept extends moodle_text_filter {
 
     public function setup($page, $context) {
         global $CFG;
-        $page->requires->js( new moodle_url($CFG->wwwroot . '/filter/dbconcept/dbconcept.js'));
-        $page->requires->js( new moodle_url($CFG->wwwroot . '/filter/dbconcept/app.js'));
+        $page->requires->js( new moodle_url($CFG->wwwroot . '/filter/dbconcept/javascript/dbconcept.js'));
+        $page->requires->js( new moodle_url($CFG->wwwroot . '/filter/dbconcept/javascript/app.js'));
     }
 }
