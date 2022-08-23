@@ -15,10 +15,10 @@
 // along with Moodle.  If not, see <https://www.gnu.org/licenses/>.
 
 defined('MOODLE_INTERNAL') || die();
-$plugin->version   = 2021101000;
+$plugin->version   = 2022082300;
 $plugin->requires  = 2020061500;
 $plugin->component = 'filter_dbconcept';
 $plugin->maturity = MATURITY_STABLE;
-$plugin->release = 'v1.0.2';
+$plugin->release = 'v1.0.3';
 $plugin->dependencies = [];
 
