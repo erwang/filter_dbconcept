@@ -6,7 +6,7 @@ Complete syntax is available at [https://dbconcept.tuxfamily.org/](https://dbcon
 
 This plugin is distributed under [CeCILL v2.1](http://cecill.info/licences/Licence_CeCILL_V2.1-en.html) licence.
 
-Actual DBConcept version is 0.4.2
+Actual DBConcept version is 0.4.3
 
 ## Use :
 Add Mocodo format text between [dbconcept]...[/dbconcept]
